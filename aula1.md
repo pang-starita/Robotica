@@ -172,7 +172,7 @@ programar os controladores.
 
 ## Arduino
 
-![Placa de Arduino na mão](arduino_na_mao.jpg)
+![Placa de Arduino na mão](arduino_na_mao.png)
 
 ## Placa de Arduino
 
@@ -187,7 +187,7 @@ programar os controladores.
 
 ## IDE do Arduino
 
-![IDE do Arduino](arduino_ide.jpg)
+![IDE do Arduino](arduino_ide.png)
 
 ## IDE do Arduino
 
