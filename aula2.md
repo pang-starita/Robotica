@@ -37,16 +37,20 @@ pneumática e computação, todas unidas no desenvolvimento de determinados rob�
 
   - As cargas elétricas se atraem segundo a lei de Coulomb: $F_{q_1,q_2} = K \frac{Q_1 Q_2}{r^2}$
   - Uma carga elétrica sózinha é dita possuir um campo elétrico porque se colocarmos uma outra carga elétrica de prova nas proximidades dela, as duas cargas elétricas experimentam uma força nelas. O campo elétrico não depende da existência da carga de prova, ele é uma característica da carga elétrica original.
-  
-  -figura
+
+![Campo Elétrico](electric_field.png)
+
 ## DDP Diferença de potencial - Tensão
 
   - 2 pontos diferentes do espaço em volta de uma carga elétrica podem ter *Potenciais Elétricos* diferentes: é necessário realizar trabalho para movimentar uma carga de um nível de potencial para um outro, a diferença de potencial (DDP) é chamada de tensão e medida em Volts (V).
   - É necessário ter uma diferença de tensão para que uma carga se movimente de um lugar para o outro. O movimento de cargas é chamado de **corrente** e medido em Ampères (A).
-  
+
 ## Resistência ôhmica
 
-Lei de Ohm: $V = R \ldot I$ ou $R = \frac{V}{I}$
+* Lei de Ohm: $V = R \cdot I$ ou $R = \frac{V}{I}$
+* Aplicação:
+
+Calcule R para que a tensão sobre o resistor seja de 3,3V e a corrente de 20mA.
 
 ## Capacitância
 
