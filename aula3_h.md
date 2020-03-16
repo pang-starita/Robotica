@@ -1,7 +1,7 @@
 ---
-title: Aula 2 - Linguagem de Programação para Robótica
+title: Aula 3 - Linguagem de Programação para Robótica
 
 author: Paulino
 
-date: 02-03-2020
+date: 09-03-2020
 ...

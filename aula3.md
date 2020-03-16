@@ -14,7 +14,7 @@
 
 * Os programas de arduino são chamados de sketches
 
-![Editor de sketches](arduino2.png)
+![Tela da IDE do Arduino - Editor de sketches](arduino2.png)
 
 ## Verificação e compilação
 
@@ -24,6 +24,11 @@
 
   ![Botão para verificar e compilar o programa](verif.png)
 
-  * Botão, control-R, ou menu->ferramentas->Verifica/compila
+  * Após editar o programa, verifique se a sintaxe dele está correta e compile o programa
+  * Acione o Botão, ou control-R, ou menu->ferramentas->Verifica/compila
 
-  
+## Exemplos prontos
+
+* O arduino possui **MUITOS** exemplos prontos.
+
+![Exemplos prontos do Arduino](ard_ex.png)
